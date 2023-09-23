@@ -1,5 +1,7 @@
 # P-Hub Location Problem Using Heuristic Approach
 
+![Alt text](Images/Hub-Location-Problem.png)
+
 ## Dataset
 The dataset can be accessed in Dataset folder. It consists CSV files where cost as cost matrix between nodes and flow as total flow matrix between nodes.
 
@@ -15,3 +17,4 @@ When developing a heuristic approach to address the p-hub median problem, it is 
 
 ## Results
 Based on the results obtained, it can be deduced that the Hybrid Genetic Algorithm yields a higher degree of accuracy.
+![Alt text](Images/Result Comparison Cost.png)
