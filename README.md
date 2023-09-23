@@ -17,4 +17,4 @@ When developing a heuristic approach to address the p-hub median problem, it is 
 
 ## Results
 Based on the results obtained, it can be deduced that the Hybrid Genetic Algorithm yields a higher degree of accuracy.
-![Alt text](Images/Result Comparison Cost.png)
+![Alt text](Images/Result-Comparison.png)
